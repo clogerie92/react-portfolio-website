@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.775c23b5.css",
+    "main.js": "/react-portfolio-website/static/js/main.1a8754fc.js",
+    "static/media/cheers.png": "/react-portfolio-website/static/media/cheers.4f76ba2ca1e5a6bb5220.png",
+    "static/media/slicendice.png": "/react-portfolio-website/static/media/slicendice.bc50e4f8556b5724338e.png",
+    "static/media/techtalk.png": "/react-portfolio-website/static/media/techtalk.22c09ccedcf4e4045a9d.png",
+    "static/media/weather.png": "/react-portfolio-website/static/media/weather.4be72f2ca8b366a910cb.png",
+    "static/media/myportrait.png": "/react-portfolio-website/static/media/myportrait.cfabd03b451a3b5336b6.png",
+    "static/media/Resume-1.pdf": "/react-portfolio-website/static/media/Resume-1.d4acf6f55c1cc9256170.pdf",
+    "static/media/chirp.png": "/react-portfolio-website/static/media/chirp.0c4fc79324e32f21a2a2.png",
+    "static/media/notehub.png": "/react-portfolio-website/static/media/notehub.00afcfc47ac987bcc4f3.png",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.775c23b5.css.map": "/react-portfolio-website/static/css/main.775c23b5.css.map",
+    "main.1a8754fc.js.map": "/react-portfolio-website/static/js/main.1a8754fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.775c23b5.css",
+    "static/js/main.1a8754fc.js"
+  ]
+}
