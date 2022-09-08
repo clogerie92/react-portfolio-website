@@ -11,7 +11,7 @@ This is my portfolio website that I built with React. It is a single page web ap
 
 ## Preview
 
-![Screenshot of portfiolio site](./src/components/pages/images/react-portfolio-screenshot.png)
+![Screenshot of portfiolio site](./src/components/pages/images/react-portfolio-pic.png)
 <br>
 [GitHub Pages](https://clogerie92.github.io/react-portfolio-website/)
 ## Contact
