@@ -5,7 +5,7 @@ import "./styles/styles.css";
 function About () {
     return (
         <div>
-            <h2 className="center" id="about-me">About</h2>
+            <h2 className="center" id="contact-me">Contact Me: carl.logerie92@gmail.com</h2>
             <div className="about-section">
             <img src={myportrait} alt="portrait" id="my-portrait"/>
                 <p id="about-content">
@@ -14,7 +14,7 @@ function About () {
                     applications. I love to create and I use software engineering a tool
                     to solve problems and bring products to life on the internet. I
                     would love to connect with you! Whether it's a job opportunity,
-                    project, or just to talk. Feel free to connect with me!
+                    project, or just to talk. Feel free to connect with me! 
                 </p>
             </div>
         </div>
